@@ -6,12 +6,12 @@
 🌱 Variables <br />
 🌱 User input (Scanner and BufferedReader) <br />
 🌱 GUI (JOptionPane) <br />
-🌱 If statements (already known) <br />
-🌱 Switches (already known) <br />
-🌱 Logical operators (already known) <br />
-🌱 While loop (already known) <br />
-🌱 For loop (already known) <br />
-🌱 Nested loop (already known) <br />
+🌱 If statements <br />
+🌱 Switches  <br />
+🌱 Logical operators <br />
+🌱 While loop <br />
+🌱 For loop <br />
+🌱 Nested loop <br />
 🌱 Arrays <br />
 🌱 2nd arrays / matrix <br />
 🌱 String methods <br />
