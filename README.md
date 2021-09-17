@@ -1,4 +1,4 @@
-# FirstStepsInJava
+# Java Learning Structure
 
 📈 First steps in Java programming
 
